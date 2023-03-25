@@ -1,5 +1,5 @@
 
-simple face recognition code :)
+Simple face recognition code :)
 
 
 Reference:
