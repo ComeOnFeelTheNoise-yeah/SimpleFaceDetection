@@ -3,6 +3,7 @@ Simple face recognition code :)
 
 
 -----------------------------Reference--------------------------------------------------------------------------------------------------------------
+
 About Module : https://youtu.be/h6GSZ19yuXc // https://suy379.tistory.com/76
 
 Haarcascade download: https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV
