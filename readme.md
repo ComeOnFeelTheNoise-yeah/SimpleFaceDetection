@@ -2,6 +2,7 @@
 simple-face-recognition code :)
 
 outputs
+
 ![image](https://user-images.githubusercontent.com/71255601/229272945-d635ce8c-c060-46ef-a530-4d734c047db9.png)
 
 ![image](https://user-images.githubusercontent.com/71255601/229272958-bb3f0d83-30e7-4ad0-bd52-2bd50e453432.png)
